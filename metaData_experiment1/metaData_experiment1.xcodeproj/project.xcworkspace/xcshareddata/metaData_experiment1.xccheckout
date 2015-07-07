@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45512F5D-6197-4FDB-A3C7-9EC503FD859A</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5F80458F6B8EA304E4F6F93A9D6D8D35B3021B32</key>
+		<string>https://github.com/reginaflores/ofxMetAPI.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5F80458F6B8EA304E4F6F93A9D6D8D35B3021B32</key>
+		<string>ofxMetAPI/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/reginaflores/ofxMetAPI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5F80458F6B8EA304E4F6F93A9D6D8D35B3021B32</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5F80458F6B8EA304E4F6F93A9D6D8D35B3021B32</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMetAPI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
