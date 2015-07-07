@@ -10,6 +10,6 @@ metaMethods is a research endeavor in algorithmic art using mathematical modelin
 This project was made using the openFrameworks add-on [ofxMetAPI](https://github.com/reginaflores/ofxMetAPI)
 
 
-![gui](images/gui.png)
+![gui](images/gui.PNG)
 
 ![gui](images/Translating_Topologies.PNG)
